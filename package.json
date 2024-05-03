@@ -1,0 +1,10 @@
+{
+  "name": "Gamercial",
+  "uuid": "de772b53-8569-4a3f-bd2c-ffef26349733",
+  "creator": {
+    "version": "3.8.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  }
+}

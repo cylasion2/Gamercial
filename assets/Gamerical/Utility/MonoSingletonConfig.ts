@@ -1,0 +1,3 @@
+interface MonoSingletonConfig{
+    configPath :  string;
+}

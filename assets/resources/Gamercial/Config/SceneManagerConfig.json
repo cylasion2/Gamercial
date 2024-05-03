@@ -1,0 +1,23 @@
+{
+    "start_scene" : "HomeScene",
+    "scene" : [
+        {
+            "index" : 1,
+            "name" : "HomeScene",
+            "path" : "homescene",
+            "preloading_assets" : [
+                {
+                    "asset_name" : "",
+                    "asset_path" : ""
+                }
+                
+            ]
+        },
+        {
+            "index" : 2,
+            "name" : "MapScene",
+            "path" : "mapscene",
+            "preloading_assets" : ""
+        }
+    ]
+}
